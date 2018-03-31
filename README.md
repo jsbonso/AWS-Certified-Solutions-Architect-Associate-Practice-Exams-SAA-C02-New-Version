@@ -2,7 +2,7 @@
 
 https://www.udemy.com/aws-solutions-architect-associate-practice-exams-sampler/?couponCode=TUTORIALSDOJO-GITHUB
 
-If the link does not work, input this coupon code: #TUTORIALSDOJO-GITHUB
+If the link does not work, input this coupon code: **TUTORIALSDOJO-GITHUB**
 
 If all else fails, feel free to send me a message so I can give you this for free. 
 Please share this to your friends or officemates who are also taking the AWS Certification exam.
