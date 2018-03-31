@@ -1,11 +1,8 @@
-# aws-certified-solutions-architect-associate-practice-exam-reviewer
-This is a repo for the AWS Certified Solutions Architect Practice Exam Reviewer
+## FREE Practice Tests for AWS Certified Solutions Architect - Associate exam here: 
 
-## Get the Free Practice Tests for AWS Certified Solutions Architect - Associate exam here: 
+https://www.udemy.com/aws-solutions-architect-associate-practice-exams-sampler/?couponCode=TUTORIALSDOJO-GITHUB
 
-https://www.udemy.com/aws-solutions-architect-associate-practice-exams-sampler/?couponCode=TDOJO-FREEBIE-032018
-
-If the link does not work, input this coupon code: TDOJO-FREEBIE-032018
+If the link does not work, input this coupon code: #TUTORIALSDOJO-GITHUB
 
 If all else fails, feel free to send me a message so I can give you this for free. 
 Please share this to your friends or officemates who are also taking the AWS Certification exam.
@@ -68,3 +65,5 @@ The AWS Certification passing score is not published by Amazon as it is set by u
 
 Remember that using this product alone does not guarantee you will pass the exam as you still need to do your own readings and hands-on exercises in AWS. Nonetheless, these practice exams provide a comprehensive assessment on which knowledge area you need improvement and even help you achieve a higher score!
 
+# aws-certified-solutions-architect-associate-practice-exam-reviewer
+This is a repo for the AWS Certified Solutions Architect Practice Exam Reviewer
