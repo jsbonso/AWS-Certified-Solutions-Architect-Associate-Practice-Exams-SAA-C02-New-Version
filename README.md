@@ -12,7 +12,7 @@ Updated with the latest Feb 2018 exam format!
 
 ================================================
 
-NOTE:
+## FREEBIES:
 
 I intend to give this away for FREE, so you can try out the practice tests on your own, as well as to check out the included explanations and reference links. However, Udemy does not allow setting any practice test-only courses for free, unlike the usual courses. 
 
@@ -57,7 +57,7 @@ I gave a considerable amount of effort to create and publish these practice test
 
 
 
-IMPORTANT NOTE 
+## IMPORTANT NOTE 
 
 These practice exams have a passing score of 70% but I highly encourage you to repeat taking these exams again and again until you consistently reach a score of 90% or higher on each exam. 
 
@@ -65,5 +65,5 @@ The AWS Certification passing score is not published by Amazon as it is set by u
 
 Remember that using this product alone does not guarantee you will pass the exam as you still need to do your own readings and hands-on exercises in AWS. Nonetheless, these practice exams provide a comprehensive assessment on which knowledge area you need improvement and even help you achieve a higher score!
 
-# aws-certified-solutions-architect-associate-practice-exam-reviewer
+## aws-certified-solutions-architect-associate-practice-exam-reviewer
 This is a repo for the AWS Certified Solutions Architect Practice Exam Reviewer
