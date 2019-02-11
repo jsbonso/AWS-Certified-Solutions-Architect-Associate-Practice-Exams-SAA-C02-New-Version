@@ -1,8 +1,8 @@
 ## FREE Practice Tests for AWS Certified Solutions Architect - Associate exam here: 
 
-https://www.udemy.com/aws-solutions-architect-associate-practice-exams-sampler/?couponCode=PROUD2BEPINOY
+https://www.udemy.com/aws-solutions-architect-associate-practice-exams-sampler/?couponCode=I-LOVE-TUTORIALSDOJO
 
-If the link does not work, input this coupon code: **PROUD2BEPINOY**
+If the link does not work, input this coupon code: **I-LOVE-TUTORIALSDOJO** or alternatively, **PROUD2BEPINOY**
 
 If all else fails, feel free to send me a message so I can give you this for free. 
 Please share this to your friends or officemates who are also taking the AWS Certification exam.
