@@ -1,12 +1,13 @@
 ## FREE Practice Tests for AWS Certified Solutions Architect - Associate exam here: 
 
-https://www.udemy.com/aws-solutions-architect-associate-practice-exams-sampler/?couponCode=TUTORIALSDOJO-GITHUB
+https://www.udemy.com/aws-solutions-architect-associate-practice-exams-sampler/?couponCode=PROUD2BEPINOY
 
-If the link does not work, input this coupon code: **TUTORIALSDOJO-GITHUB**
+If the link does not work, input this coupon code: **PROUD2BEPINOY**
 
 If all else fails, feel free to send me a message so I can give you this for free. 
 Please share this to your friends or officemates who are also taking the AWS Certification exam.
 
+Checkout the free AWS Cheat sheet to help you on your review: https://tutorialsdojo.com/aws-cheat-sheets/ 
 
 Updated with the latest Feb 2018 exam format! 
 
@@ -16,7 +17,7 @@ Updated with the latest Feb 2018 exam format!
 
 I intend to give this away for FREE, so you can try out the practice tests on your own, as well as to check out the included explanations and reference links. However, Udemy does not allow setting any practice test-only courses for free, unlike the usual courses. 
 
-Hence, please feel free to contact me to get the FREE coupon code for absolutely no cost! 
+Hence, please feel free to contact me to get the FREE coupon code for absolutely no cost! www.tutorialsdojo.com
 
 Or visit the Tutorials Dojo page in Facebook to get more freebies and stuffs!
 
