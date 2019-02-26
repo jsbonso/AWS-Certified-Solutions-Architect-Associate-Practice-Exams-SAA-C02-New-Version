@@ -26,7 +26,7 @@ Or visit the Tutorials Dojo page in Facebook to get more freebies and stuffs!
 
 This is a sampler of my AWS Certified Solutions Architect (Associate) Practice Exams, which is the complete version with 390 Unique questions and 6 Practice Tests. This sampler only contains 2 practice tests out of the 6 tests available from the complete version but nevertheless, this will still help you prepare for your AWS certification exam. And quite frankly, there are a lot of Practice Tests here in Udemy that rip you off with hundreds of dollars but does even not provide a sample 130 unique questions like this! 
 
-This free sampler offer is one of a kind and even way better than other practice test providers like Whizlabs, Linux Academy and A Cloud Guru, with the same high quality content! 
+This free sampler offer is one of a kind and even way better than other practice test providers in the market with the same high quality content! 
 
 And if you like this sampler, feel free to check out my AWS Certified Solutions Architect (Associate) Practice Exams with the complete 390 Unique questions and 6 Practice Tests. I am confident that this sampler, as well as my complete AWS Practice Exams, will help you pass your certification exam without spending too much money on practice tests!
 
