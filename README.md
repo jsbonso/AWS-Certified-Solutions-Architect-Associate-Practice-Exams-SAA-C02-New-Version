@@ -1,8 +1,9 @@
 ##  Practice Tests for AWS Certified Solutions Architect - Associate exam here: 
 
-https://www.udemy.com/aws-certified-solutions-architect-associate-amazon-practice-exams/?couponCode=GITHUB-AWS-SAA-C01
 
-If the link does not work, input this coupon code: **GITHUB-AWS-SAA-C01** or alternatively, **AWS-PINOY-GITHUB-SAA-C01**
+https://www.udemy.com/aws-certified-solutions-architect-associate-amazon-practice-exams/?couponCode=TUTORIALSDOJO-G1
+
+If the link does not work, input this coupon code: **TUTORIALSDOJO-G1**
 
 
 ## AWS CHEATSHEETS
