@@ -1,22 +1,29 @@
-##  Practice Tests for AWS Certified Solutions Architect - Associate exam here: 
+##  FREE Practice Tests for AWS Certified Solutions Architect - Associate exam that you can try here: 
 
 
-https://www.udemy.com/aws-certified-solutions-architect-associate-amazon-practice-exams/?couponCode=TUTORIALSDOJO-G1
+https://portal.tutorialsdojo.com/all-courses/?catid=40
 
-If the link does not work, input this coupon code: **TUTORIALSDOJO-G1**
-
+If you want to take the premium version, you can use this coupon code:: **WELCOME-2-TD**
+https://portal.tutorialsdojo.com/all-courses/
 
 ## AWS CHEATSHEETS
 Checkout the free AWS Cheat sheet to help you on your review: https://tutorialsdojo.com/aws-cheat-sheets/ 
 
 
-Updated with the latest Feb 2018 exam format! 
+## FULLY UPDATED to the new SAA-C02 - AWS Certified Solutions Architect Associate exam version!
+
+There are a lot of courses out there that are claiming that their courses are fully updated, but they're actually not! Our practice tests contain the new SAA-C02 topics such as AWS Global Accelerator, Amazon FSx for Lustre, Elastic Fabric Adapter (EFA), Direct Connect Gateway and many others. If your other SAA-C02 courses do not contain these new services then it's time to get our SAA-C02 practice test course!
+
+Check out the course here:
+
+https://portal.tutorialsdojo.com/all-courses/
+
 
 These AWS Certified Solutions Architect Associate practice tests are patterned after the latest exam format and updated regularly based on the feedback of our 14,000+ students on what appeared in the actual exam. Our AWS Certified Solutions Architect practice tests are TOP-NOTCH and the CLOSEST to the actual exam, as demonstrated by the 2000++ reviews on our course.
 
 **Plus a 30 DAY MONEY BACK GUARANTEE if you're not satisfied for any reason.**
 
-The AWS Certified Solutions Architect Associate ( SAA-C01 ) is consistently among the top paying IT certifications, considering that Amazon Web Services (AWS) is the leading cloud services platform in the world with almost 50% market share! Earn over $150,000 per year with an AWS Solutions Architect certification!
+The new AWS Certified Solutions Architect Associate ( SAA-C02 ) exam has recently been launched to replace the old SAA-C01 version. It is consistently among the top paying IT certifications, considering that Amazon Web Services (AWS) is the leading cloud services platform in the world with almost 50% market share! Earn over $150,000 per year with an AWS Solutions Architect certification!
 
 But before you become an AWS Certified Solutions Architect Professional, it is recommended for you to pass the AWS Solutions Architect Associate certification exam first, and this is where AWS practice tests come in. It is possible that you have read all of the available AWS documentations online yet still fail the exam! These AWS practice tests simulate the actual certification exam and ensure that you indeed understand the subject matter.
 
@@ -46,7 +53,7 @@ This AWS Certified Solutions Architect Associate Practice Exam course is for any
 
 
 
-These AWS Solutions Architect practice exams are designed to focus on the important exam topics (such as EC2, EBS, S3 and many others) hence, the aforementioned topics have more questions than the other AWS knowledge areas. The number of questions on each topic are carefully selected based on the 5 domains of the actual AWS certification exam. Out of the 5 domains, Domain 1: Design Resilient Architectures has the highest percentage (34%) with topics such as reliable and/or resilient storage; how to design decoupling mechanisms; determine how to design multi-tier, fault tolerant architectures, etc. Note that although there is a focus on these AWS topics, the questions are all still unique, to ensure that you fully grasp the concepts.
+These AWS Solutions Architect practice exams are designed to focus on the important exam topics (such as EC2, EBS, S3 and many others) hence, the aforementioned topics have more questions than the other AWS knowledge areas. The number of questions on each topic are carefully selected based on the 4 domains of the actual AWS certification exam.
 
 Some people are using brain dumps for the AWS Certified Solutions Architect certification exam which is totally absurd and highly unprofessional because these dumps will not only hinder you to attain an in-depth AWS knowledge, these can also result with you failing the actual AWS certification exam since Amazon regularly updates the exam coverage.
 
